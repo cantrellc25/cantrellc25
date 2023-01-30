@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I really enjoy web design 
 
-## [portfolio](http://127.0.0.1:5500/Portfolilo%20cash/index.html)
+## [portfolio](https://cantrellc25/portfolio/index.html)
